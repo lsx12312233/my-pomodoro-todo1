@@ -424,6 +424,3 @@ export default function App() {
           background-color: #cbd5e1;
         }
       `}</style>
-    </div>
-  );
-}
